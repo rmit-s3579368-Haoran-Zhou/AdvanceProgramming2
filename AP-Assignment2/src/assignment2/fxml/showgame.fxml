@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="450.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="assignment2.Game">
+   <children>
+      <Button fx:id="gback" layoutX="502.0" layoutY="3.0" mnemonicParsing="false" onAction="#back" text="Back" />
+      <TextArea fx:id="gtxt" layoutY="38.0" prefHeight="407.0" prefWidth="600.0">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </TextArea>
+      <Button fx:id="gload" layoutX="43.0" layoutY="3.0" mnemonicParsing="false" onAction="#loadGames" text="Load" />
+   </children>
+</Pane>

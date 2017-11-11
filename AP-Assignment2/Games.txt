@@ -1,0 +1,116 @@
+
+ ID: SuperA3 Name: 503.13 Rank: 2
+ ID: SuperA8 Name: 513.01 Rank: 3
+ ID: Swimmer7 Name: 501.41 Rank: 1
+Official: Official4
+Game Index: swimmer competition
+2017-10-15 06:25:29
+-------------------------------
+
+
+
+ ID: SuperA3 Name: 503.13 Rank: 2
+ ID: SuperA8 Name: 513.01 Rank: 3
+ ID: Swimmer7 Name: 501.41 Rank: 1
+Official: Official4
+Game Index: swimmer competition
+2017-10-15 06:25:29
+-------------------------------
+
+ ID: SuperA8 Name: 503.21 Rank: 1
+ ID: Swimmer7 Name: 505.43 Rank: 2
+ ID: SuperA1 Name: 506.55 Rank: 3
+Official: Official4
+Game Index: swimmer competition
+2017-10-15 06:25:50
+-------------------------------
+
+
+
+ ID: SuperA5 Name: 14.41 Rank: 3
+ ID: SuperA3 Name: 11.11 Rank: 2
+ ID: SuperA2 Name: 10.64 Rank: 1
+Official: Official4
+Game Index: runner competition
+2017-10-15 06:27:11
+-------------------------------
+
+
+
+ ID: SuperA5 Name: 14.41 Rank: 3
+ ID: SuperA3 Name: 11.11 Rank: 2
+ ID: SuperA2 Name: 10.64 Rank: 1
+Official: Official4
+Game Index: runner competition
+2017-10-15 06:27:11
+-------------------------------
+
+ ID: SuperA5 Name: 11.08 Rank: 2
+ ID: Runner5 Name: 10.66 Rank: 1
+ ID: SuperA3 Name: 12.53 Rank: 3
+Official: Official4
+Game Index: runner competition
+2017-10-15 06:27:19
+-------------------------------
+
+
+
+ ID: SuperA5 Name: 14.41 Rank: 3
+ ID: SuperA3 Name: 11.11 Rank: 2
+ ID: SuperA2 Name: 10.64 Rank: 1
+Official: Official4
+Game Index: runner competition
+2017-10-15 06:27:11
+-------------------------------
+
+ ID: SuperA5 Name: 11.08 Rank: 2
+ ID: Runner5 Name: 10.66 Rank: 1
+ ID: SuperA3 Name: 12.53 Rank: 3
+Official: Official4
+Game Index: runner competition
+2017-10-15 06:27:19
+-------------------------------
+
+ ID: SuperA6 Name: 100.38 Rank: 1
+ ID: SuperA4 Name: 109.22 Rank: 2
+ ID: SuperA3 Name: 136.71 Rank: 3
+Official: Official2
+Game Index: cyclist competition
+2017-10-15 06:27:39
+-------------------------------
+
+
+
+ ID: SuperA5 Name: 14.41 Rank: 3
+ ID: SuperA3 Name: 11.11 Rank: 2
+ ID: SuperA2 Name: 10.64 Rank: 1
+Official: Official4
+Game Index: runner competition
+2017-10-15 06:27:11
+-------------------------------
+
+ ID: SuperA5 Name: 11.08 Rank: 2
+ ID: Runner5 Name: 10.66 Rank: 1
+ ID: SuperA3 Name: 12.53 Rank: 3
+Official: Official4
+Game Index: runner competition
+2017-10-15 06:27:19
+-------------------------------
+
+ ID: SuperA6 Name: 100.38 Rank: 1
+ ID: SuperA4 Name: 109.22 Rank: 2
+ ID: SuperA3 Name: 136.71 Rank: 3
+Official: Official2
+Game Index: cyclist competition
+2017-10-15 06:27:39
+-------------------------------
+
+ ID: Swimmer7 Name: 516.87 Rank: 3
+ ID: Swimmer7 Name: 504.09 Rank: 2
+ ID: Swimmer6 Name: 501.89 Rank: 1
+Official: Official3
+Game Index: swimmer competition
+2017-10-15 06:27:57
+-------------------------------
+
+
